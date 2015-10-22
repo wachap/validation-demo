@@ -1,0 +1,24 @@
+{
+  "name": "validation",
+  "authors": [
+    "Gean Carlos"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "normalize-css": "normalize.css#~3.0.3",
+    "bootstrap": "~3.3.5",
+    "jquery-validation": "~1.14.0"
+  }
+}
